@@ -1,4 +1,6 @@
-Text Embedding Techniques - NLP Assignment
+🧠 Text Embedding Techniques - NLP Assignment
+
+
 This project explores various text embedding techniques using a sample dataset of product reviews. The goal is to understand how different embedding models represent textual data and to compare their effectiveness for downstream tasks.
 
 📁 Dataset
@@ -78,8 +80,6 @@ GloVe
 FastText
 
 Review visualizations and comparisons
-
-(Optional) Extend by applying embeddings to a classifier (e.g., sentiment analysis)
 
 📌 Learning Outcomes
 Understand the principles behind embedding models
